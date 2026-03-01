@@ -1,3 +1,4 @@
 # ECommerce-SQL-Project
-Complete SQL E-commerce analysis project with advanced queries
+Complete SQL E-commerce analysis project with advanced queries.
+<br>
 author - Vishal Mishra 
